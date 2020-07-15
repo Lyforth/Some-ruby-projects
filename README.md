@@ -11,3 +11,4 @@ Alguns mini projetos em ruby poder praticar programação e fixar os conheciment
 - [Projeto 07](https://github.com/Lyforth/some-ruby-projects/blob/master/project-07/Project-07.md)
 - [Projeto 08](https://github.com/Lyforth/some-ruby-projects/blob/master/project-08/Project-08.md)
 - [Projeto 09](https://github.com/Lyforth/some-ruby-projects/blob/master/project-09/Project-09.md)
+- [Projeto 10](https://github.com/Lyforth/some-ruby-projects/blob/master/project-10/Project-10.md)
